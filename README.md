@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## 资助我
+<div align="center">
 
-![微信](/wechat.jpg)
-
-![支付宝](/alipay.jpg)
-
-<a href="https://afdian.net/a/AkarinLiu"><img src="afdian.png" alt="爱发电"></a>
+<img src="alipay.jpg" width=50%>
+<img src="wechat.jpg" width=50%>
+<a href="https://afdian.net/a/AkarinLiu"><img src="afdian.png" alt="爱发电" width=50%></a>
+</div>
