@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## 资助我
 <div align="center">
 
-<img src="alipay.jpg" width=50%>
-<img src="wechat.jpg" width=50%>
+<img src="/alipay.jpg" width=50%>
+<img src="/wechat.jpg" width=50%>
 <a href="https://afdian.net/a/AkarinLiu"><img src="afdian.png" alt="爱发电" width=50%></a>
 </div>
