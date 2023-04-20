@@ -1,6 +1,6 @@
 ## 我的博客
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://www.akarinliu.com/feed&style=flat-square)](https://www.akarinliu.com/)
-
+<a href="https://www.akarinliu.com"><?xml version="1.0" encoding="UTF-8"?><svg width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 44L8 6C8 4.89543 8.89543 4 10 4H38C39.1046 4 40 4.89543 40 6V44L24 35.7273L8 44Z" fill="none" stroke="#333" stroke-width="4" stroke-linejoin="round"/><path d="M23.9497 13.9497L23.9497 25.9497" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.9497 19.9497L29.9497 19.9497" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg><p>博客</p></a>
+<a href="https://www.akarinliu.com/feed"><?xml version="1.0" encoding="UTF-8"?><svg width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24.7073 9.56521L9.85801 24.4145C6.34329 27.9292 6.34329 33.6277 9.85801 37.1424V37.1424C13.3727 40.6571 19.0712 40.6571 22.5859 37.1424L40.2636 19.4647C42.6067 17.1216 42.6067 13.3226 40.2636 10.9794V10.9794C37.9205 8.63628 34.1215 8.63628 31.7783 10.9794L14.1007 28.6571C12.9291 29.8287 12.9291 31.7282 14.1007 32.8997V32.8997C15.2722 34.0713 17.1717 34.0713 18.3433 32.8997L33.1925 18.0505" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg><p>订阅</p></a>
 ## 进行的项目 
 [LEDE](https://github.com/AkarinLiu/lede.git)
 [OpenWRT](https://github.com/AkarinLiu/openwrt.git)
