@@ -6,7 +6,7 @@
 - 偏爱 Rust 语言
 - 偏爱 DeepSeek
 
-[Bango Cat](https://store.steampowered.com/app/3419430/Bongo_Cat/) 房间号：CfdKcCaCjp
+[Bongo Cat](https://store.steampowered.com/app/3419430/Bongo_Cat/) 房间号：CfdKcYFhfp
 
 ## 汇总
 <div>
