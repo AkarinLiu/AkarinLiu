@@ -6,7 +6,7 @@
 - 偏爱 Rust 语言
 - 偏爱 DeepSeek
 
-[Bongo Cat](https://store.steampowered.com/app/3419430/Bongo_Cat/) 房间号：CfdKcYFhfp
+论坛邀请码（30天有效）：https://forum.akarinliu.com/invites/vtjyFVuati
 
 ## 汇总
 <div>
