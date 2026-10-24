@@ -167,4 +167,4 @@
 | 哔哩哔哩 | https://space.bilibili.com/551254339 |
 | PayPal | https://www.paypal.me/AkarinLiu |
 
-论坛邀请码（7 天有效）：https://forum.akarinliu.com/invites/JCGNwnyB72
+论坛邀请码（有效期至 2026 年 11 月 22 日）：https://forum.akarinliu.com/invites/JCGNwnyB72
